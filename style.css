@@ -1,0 +1,53 @@
+/* Styles go here */
+
+/*General*/
+html,body{
+  padding:0;
+  margin:0;
+}
+.container{
+        text-align:center;
+        width: 100%;
+        display:flex;
+        align-content:middle;
+      }
+      
+  /* LoginPage    */
+      #login-box{
+        display:inline-block;
+        margin:0 auto;
+        box-shadow:0px 0px 5px #999999; 
+        padding:20px; 
+        text-align:center;
+        width:50%;
+      }
+      
+      
+      #login-box .lbl{
+        font-weight:bold;
+      }
+      #login-box .email,.password{
+    
+        width:50%;
+        margin:10px auto;
+        text-align:left;
+      }
+       #login-box .login-btn, .signup{
+    
+        width:50%;
+        margin:10px auto;
+       
+      }
+      
+      .email input, .password input{
+        width:99%;
+        padding:0px;
+        border-width:1%;
+      }
+      .login-btn button{
+        padding:0px;
+        margin:0px;
+        color:white;
+        background:#003555;
+        width:100%;
+      }
