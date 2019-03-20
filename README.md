@@ -1,3 +1,3 @@
 # Login_Component
 
-![alt text](loginComp.png)
+![alt text](https://github.com/cmsemog/Login_Component/blob/master/loginComp.PNG)
